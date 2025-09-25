@@ -1,1 +1,2 @@
-creating a new file
+Open cmd type ssh -p 61451 ctf-player@titan.picoctf.net
+and password 1ad5be0d
